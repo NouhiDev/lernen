@@ -69,7 +69,7 @@ var philo_ans = [
     "Leben für Lust. Gegenteil: Askese.",
     "Nur Leute mit guten Genen dürfen sich fortpflanzen.",
     "Menschen in einer Höhle eingesperrt, sehen nur Schatten von Objekten --> sehen nicht die Dinge, wie sie wirklich sind. Welt der Ideen wirft „Schatten“ auf unsere Welt. Einer flüchtet (Philosoph, der Wahrheit für sich erkennt), sieht die echten Objekte, kommt zurück und erzählt es, keiner glaubt ihm und wird später umgebracht.",
-    "Was ist das Liniengleichnis?",
+    "Senkrechte Linie in 2 Teile (denkzugänglich;sinnzugänglich), nochmal geteilt (Dianoia=Nachdenken, Noesis=Einsicht; Eikasia=Vermuten, Pistis=Glauben), ...",
     "Dank der Sonne werden Dinge sichtbar, verleiht die Fähigkeit zu sehen, Sonne gleichgestellt mit der Idee des Guten (=höchste Erkenntnis, übergeordnet), Erkenntnis und Wahrheit erst im Licht erkennbar, ...",
     "Welt der Ideen (=Urbilder, zeitlos, objektiv) ist der Welt der Sinne (= unvollkommene Abbildungen der Welt der Ideen) übergeordnet.",
     "Unterricht durch Fragen, ohne Arroganz und Zynismus diskutieren, nicht urteilen, ...",
