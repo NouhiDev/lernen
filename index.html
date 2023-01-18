@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <title>nouhidev | projects</title>
+    <meta name="title" content="nouhidev" />
+    <meta
+      name="description"
+      content="View nouhidev's projects such as REMNANTS, Roblox Horrorlist, etc."
+    />
+    <meta name="robots" content="index, follow" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.5" />
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <meta name="robots" content="index, follow" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Roboto&display=swap"
+      rel="stylesheet"
+    />
+    <script src="index.js"></script>
+    <!-- Google Analytics -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "UA-144101469-4");
+    </script>
+  </head>
+  <body>
+    <!-- Loader -->
+    <div class="loader">
+      <div class="cube">
+        <div class="side"></div>
+        <div class="side"></div>
+        <div class="side"></div>
+        <div class="side"></div>
+        <div class="side"></div>
+        <div class="side"></div>
+      </div>
+    </div>
+    
+    <div class="content">
+      <h1 class="title">lernen</h1>
+      <h1 class="subtitle">WÄHLE DEN TESTBEREICH:</h1>
+
+      <select name="bereich" id="bereich">
+        <option value="placeholder">Bereich auswählen</option>
+        <option value="philo-test">Philosophie Test 1</option>
+      </select>
+
+      <br>
+      <br>
+      <br>
+      <hr>
+      <br>
+
+      <h1 class="subtitle" id="qstn"></h1>
+
+      <br>
+      <hr>
+      <br>
+
+      <h1 class="subtitle answ" id="ans"></h1>
+
+      <!-- Back Button -->
+      <div class="btn-container">
+        <button id="btn" class="btn" onclick="gen_question()">FRAG MICH</button>
+        <button id="btn" class="btn" onclick="ans_question()">ANTWORT ZEIGEN</button>
+        <button id="btn" class="btn" onclick="back_btn()">BACK</button>
+      </div>
+
+      </div>
+    </div>
+  </body>
+</html>
