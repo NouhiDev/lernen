@@ -45,6 +45,10 @@ var philo_fragen = [
   "Was ist Daimonion?",
   "Was sind Vertreter der Sophisten?",
   "Wieso war Platon gegen Sophisten?",
+  "Was ist der Kugelmensch?",
+  "Was bedeutet platonische Liebe eigentlich?",
+  "Um was geht es bei 'Genius malignus'?",
+  "Was ist die Mäeutik?",
 ];
 
 var philo_ans = [
@@ -62,7 +66,7 @@ var philo_ans = [
     "Urstoff: Luft, alles ist Verdünnung/Verdichtung von Luft, Beweis für Kugelgestalt, Erde=Scheibe auf Luftmeer, Himmel=Halbkugel mit Sternen benagelt.",
     "Urstoff: Zahlen, alles wiederholt sich, von Samos, in Ägypten heilige Wissenschaften gelernt, pythagoräische Schule, Wiedergeburt der Seele, 1-10 besonders, 1-4 Tetraktys, magische Zahlencodes tragen, ...",
     "Urstoff: Feuer (ewiges Weltfeuer), 'panta rhei', alles in Bewegung/Veränderung ständig, Gegensätze halten Welt zusammen, 4 Dimensionen, Logos = kosmische Notwendigkeit für Gleichgewicht der 4 Elemente, ...",
-    "Urstoff: Atome, atomistischer Materialismus, jedes Atom hat Form eines geometrischen regelmäßigen Körpers, Weltall unendlich, Erde nicht flach, ...",
+    "Urstoff: Atome, atomistischer Materialismus, jedes Atom hat Form eines geometrischen regelmäßigen Körpers, Weltall unendlich, Erde nicht flach, Induktionslogik, ...",
     "Mensch kann über zukünftige Gesellschaftsordnung entscheiden, weiß aber nicht, an welcher Stelle in dieser Ordnung er sein wird -> Stimmt für eine gerechte Ordnung.",
     "Politeia.",
     "Nährstand, Wehrstand, Lehrstand.",
@@ -76,7 +80,11 @@ var philo_ans = [
     "Innere Stimme des moralisch richtigen Handelns.",
     "Protagoras, Gorgias",
     "Bedrohung für Aristokratie --> Plebejer Möglichkeit zur Bildung und höheren Ämtern.",
-  ];
+    "Früher Menschen 4 Beine & Arme, 2 Köpfe, dann geteilt und Liebe ist die Suche nach dem anderen Teil.",
+    "Liebe zu Allen.",
+    "Ob ein böser Geist/Gott uns alles vorgaukelt. Geprägt von René Descartes.",
+    "Jeder Mensch tragt die Erkenntnise in sich, muss sie nur noch durch Fragen herausbekommen."
+];
 
 
 
