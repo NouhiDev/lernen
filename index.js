@@ -101,7 +101,7 @@ var philo_ans = [
     "Skeptizismus, Relativismus, Konstruktivismus.",
     "Rationalismus, Empirismus",
     "Relativismus: keine absolute Wahrheit, alles in Relation zueinander (abhängig), Skeptizismus: keine Gewissheit, Konstruktivismus: Jeder konstruiert eigene Welt.",
-    "Alles hinterfragen, Welt durch vernunft erkennen, ...",
+    "Alles hinterfragen, Welt durch Vernunft erkennen, ...",
     "Welt durch Sinne und Erfahrungen erkennen, auch Sensualismus, Vernunft = keine Quelle der Erkenntnis",
     "Kritizismus, kritischer Rationalismus, Neopositivismus.",
     "Begründer eleatischen Schule, Urstoff/theorie: 'Es ist.', erster Rationalist, beschäftigt sich mit dem Nichts, ...",
