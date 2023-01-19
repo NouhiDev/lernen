@@ -49,6 +49,12 @@ var philo_fragen = [
   "Was bedeutet platonische Liebe eigentlich?",
   "Um was geht es bei 'Genius malignus'?",
   "Was ist die Mäeutik?",
+  "Welche zwei Richtungen gab es bei der Erkenntnistheorie?",
+  "Welche Theorien gibt es bei der pessimistischen Erkenntnistheorie?",
+  "Welche Theorien gibt es bei der optimistischen Erkenntnstheorie?",
+  "Was sind Relativismus, Skeptizismus und Konstruktivismus und vertrat diese?",
+  "Was ist der Rationalismus?",
+  "Was ist der Empirismus?"
 ];
 
 var philo_ans = [
@@ -83,7 +89,13 @@ var philo_ans = [
     "Früher Menschen 4 Beine & Arme, 2 Köpfe, dann geteilt und Liebe ist die Suche nach dem anderen Teil.",
     "Liebe zu Allen.",
     "Ob ein böser Geist/Gott uns alles vorgaukelt. Geprägt von René Descartes.",
-    "Jeder Mensch tragt die Erkenntnise in sich, muss sie nur noch durch Fragen herausbekommen."
+    "Jeder Mensch tragt die Erkenntnise in sich, muss sie nur noch durch Fragen herausbekommen.",
+    "Pessimistisch und optimistisch.",
+    "Skeptizismus, Relativismus, Konstruktivismus.",
+    "Rationalismus, Empirismus",
+    "Relativismus: keine absolute Wahrheit, alles in Relation zueinander (abhängig), Skeptizismus: keine Gewissheit, Konstruktivismus: Jeder konstruiert eigene Welt.",
+    "Alles hinterfragen, Welt durch vernunft erkennen, ...",
+    "Welt durch Sinne und Erfahrungen erkennen, auch Sensualismus, Vernunft = keine Quelle der Erkenntnis"
 ];
 
 
