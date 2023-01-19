@@ -111,7 +111,7 @@ var philo_ans = [
     "Gesprächspartner sieht sein beschränktes Wissen ein --> sinnvolle Diskussion.",
     "-",
     "Nur das Ich existiert, unsere Welt existiert nur für uns.",
-    "-",
+    "Modernisierung von Böser Geist, neue Fragen: können wir die Simulation erkennen und ausbrechen? --> Matrix, Truman Show, ...",
     "Der Mensch ist das Maß aller Dinge, von Protagoras.",
     "Hinwendung zum Menschen, weg von Natur, Erkenntnis und Rhetorik werden zum Zentrum, vernünftiges Denken, ..."
 ];
