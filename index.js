@@ -51,10 +51,19 @@ var philo_fragen = [
   "Was ist die Mäeutik?",
   "Welche zwei Richtungen gab es bei der Erkenntnistheorie?",
   "Welche Theorien gibt es bei der pessimistischen Erkenntnistheorie?",
-  "Welche Theorien gibt es bei der optimistischen Erkenntnstheorie?",
-  "Was sind Relativismus, Skeptizismus und Konstruktivismus und vertrat diese?",
+  "Welche Theorien gibt es bei der optimistischen Erkenntnistheorie?",
+  "Was sind Relativismus, Skeptizismus und Konstruktivismus und wer vertrat diese?",
   "Was ist der Rationalismus?",
-  "Was ist der Empirismus?"
+  "Was ist der Empirismus?",
+  "Welche neuen Lehren gab es in der Aufklärung?",
+  "Was weißt du über Parminedes?",
+  "Was weißt du über Sokrates?",
+  "Was ist Aporie?",
+  "Was weißt du über Aristoteles?",
+  "Was ist Solipsismus?",
+  "Was weißt du über Brain in the Vat?",
+  "Was heißt 'Homo mensura' und von wem stammt es?",
+  "Was ist die Bedeutung der Sophisten?"
 ];
 
 var philo_ans = [
@@ -95,7 +104,15 @@ var philo_ans = [
     "Rationalismus, Empirismus",
     "Relativismus: keine absolute Wahrheit, alles in Relation zueinander (abhängig), Skeptizismus: keine Gewissheit, Konstruktivismus: Jeder konstruiert eigene Welt.",
     "Alles hinterfragen, Welt durch vernunft erkennen, ...",
-    "Welt durch Sinne und Erfahrungen erkennen, auch Sensualismus, Vernunft = keine Quelle der Erkenntnis"
+    "Welt durch Sinne und Erfahrungen erkennen, auch Sensualismus, Vernunft = keine Quelle der Erkenntnis",
+    "Kritizismus, kritischer Rationalismus, Neopositivismus.",
+    "Begründer eleatischen Schule, Urstoff/theorie: 'Es ist.', erster Rationalist, beschäftigt sich mit dem Nichts, ...",
+    "-",
+    "Gesprächspartner sieht sein beschränktes Wissen ein --> sinnvolle Diskussion.",
+    "-",
+    "Nur das Ich existiert, unsere Welt existiert nur für uns.",
+    "Der Mensch ist das Maß aller Dinge, von Protagoras.",
+    "Hinwendung zum Menschen, weg von Natur, Erkenntnis und Rhetorik werden zum Zentrum, vernünftiges Denken, ..."
 ];
 
 
