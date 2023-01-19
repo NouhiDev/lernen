@@ -77,7 +77,7 @@ var philo_ans = [
     "Urstoff: Apeiron, erste Weltkarte, Sonnenuhr, erster Kosmologe, Tag-und-Nacht-Gleiche, Sonnenwende, Erde = Zylinder umkreist mir feurigen Rädern, unzählige Welten, Seele ist verbunden mit Luft, ...",
     "Urstoff: Wasser, erster Materialist, erster griech. Philosoph, Teil d. 7 Waisen, Lehrer von Anaximander, Sonnenfinsternis, Höhe von Pyramiden mit Schatten, Satz des Thales, Erde schwebt auf Wasser; Wasserbeben...",
     "Urstoff: Luft, alles ist Verdünnung/Verdichtung von Luft, Beweis für Kugelgestalt, Erde=Scheibe auf Luftmeer, Himmel=Halbkugel mit Sternen benagelt.",
-    "Urstoff: Zahlen, alles wiederholt sich, von Samos, in Ägypten heilige Wissenschaften gelernt, pythagoräische Schule, Wiedergeburt der Seele, 1-10 besonders, 1-4 Tetraktys, magische Zahlencodes tragen, ...",
+    "Urgesetz: Zahlen, alles wiederholt sich, von Samos, in Ägypten heilige Wissenschaften gelernt, pythagoräische Schule, Wiedergeburt der Seele, 1-10 besonders, 1-4 Tetraktys, magische Zahlencodes tragen, ...",
     "Urstoff: Feuer (ewiges Weltfeuer), 'panta rhei', alles in Bewegung/Veränderung ständig, Gegensätze halten Welt zusammen, 4 Dimensionen, Logos = kosmische Notwendigkeit für Gleichgewicht der 4 Elemente, ...",
     "Urstoff: Atome, atomistischer Materialismus, jedes Atom hat Form eines geometrischen regelmäßigen Körpers, Weltall unendlich, Erde nicht flach, Induktionslogik, ...",
     "Mensch kann über zukünftige Gesellschaftsordnung entscheiden, weiß aber nicht, an welcher Stelle in dieser Ordnung er sein wird -> Stimmt für eine gerechte Ordnung.",
