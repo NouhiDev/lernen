@@ -26,25 +26,21 @@ function gen_question() {
   let bereich = document.getElementById("bereich");
   let question_text = document.getElementById("qstn");
   let selected = bereich.value;
+  let selected_id = bereich[bereich.selectedIndex].id;
 
   answer_text.innerHTML = "";
+  console.log(selected_id);
 
-  
-
-  switch (selected) {
-    case "geo-glob":
-      $.getJSON(
-        `https://opensheet.elk.sh/1z2m7ZumBBADPKTDQGkk0j1aXZ4QGirgHAdpcn-5Efrc/1`,
-        function (data) {
-          curr_index = Math.floor(Math.random() * data.length);
-          let qstn = data[curr_index].Frage;
-          question_text.innerHTML = qstn;
-          answ = data[curr_index].Antwort;
-          console.log(answ);
-        }
-      );
-      break;
-  }
+  $.getJSON(
+    `https://opensheet.elk.sh/1z2m7ZumBBADPKTDQGkk0j1aXZ4QGirgHAdpcn-5Efrc/${selected_id}`,
+    function (data) {
+      curr_index = Math.floor(Math.random() * data.length);
+      let qstn = data[curr_index].Frage;
+      question_text.innerHTML = qstn;
+      answ = data[curr_index].Antwort;
+      console.log(answ);
+    }
+  );
 }
 
 function ans_question() {
