@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Anonymous+Pro");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap");
 :root {
-  font-family: "Roboto", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 :root {
   padding-left: auto;
@@ -35,16 +36,16 @@
   margin-top: auto;
 }
 :root {
-  background-color: #121317;
+  background-color: #161920;
 }
 :root {
-  overflow: hidden;
+  overflow-x: hidden;
 }
 :root {
   --primary-color: #ff4848;
 }
 :root {
-  --main-bg-color: #121317;
+  --main-bg-color: #161920;
 }
 [class~="content"] {
   display: none;
@@ -174,7 +175,7 @@
   transform: translate(-50%, -50%);
 }
 [class~="title"] {
-  font-family: "Anonymous Pro", monospace;
+  font-family: "Inter", sans-serif;
 }
 [class~="title"] {
   padding-left: auto;
@@ -312,7 +313,7 @@
   border-radius: 5px;
 }
 [class~="btn"] {
-  font-family: "Oswald", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 [class~="btn"] {
   line-height: 0pt;
@@ -330,7 +331,7 @@
   margin-top: 2.5pc;
 }
 [class~="subtitle"] {
-  font-family: "Anonymous Pro", monospace;
+  font-family: "Inter", sans-serif;
 }
 [class~="subtitle"] {
   padding-left: auto;
@@ -382,7 +383,7 @@
   margin-bottom: 2.5pc;
   margin-left: 2.5pc;
   line-height: 0pt;
-  font-family: "Oswald", sans-serif;
+  font-family: "Inter", sans-serif;
   border-radius: 5px;
   cursor: pointer;
   font-size: 15pt;
@@ -443,4 +444,8 @@ select {
 
 select::-ms-expand {
   display: none;
+}
+
+.title {
+  font-size: 5em;
 }
